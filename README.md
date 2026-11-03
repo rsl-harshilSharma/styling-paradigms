@@ -39,9 +39,12 @@ hover action buttons, and inspect the disabled out-of-stock action.
 
 ```text
 src/
+  exercise-1/
+    Dashboard.tsx
   exercise-2/
     components.tsx
     componentStyles.css.ts
+    Showcase.tsx
     theme.css.ts
   App.tsx
   index.css
